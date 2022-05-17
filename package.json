@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/harioms1522/expense_tracker#readme",
   "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3",
     "morgan": "^1.10.0"
   }
 }
